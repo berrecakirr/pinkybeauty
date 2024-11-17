@@ -1,0 +1,1125 @@
+{
+  "Files": [
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\beautynew.bundle.scp.css",
+      "PackagePath": "staticwebassets\\beautynew.bundle.scp.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\Microblading.jpg",
+      "PackagePath": "staticwebassets\\img\\Microblading.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\agdasonrasıcilttemziligi.jpg",
+      "PackagePath": "staticwebassets\\img\\agdasonrasıcilttemziligi.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\agdaturu.jpg",
+      "PackagePath": "staticwebassets\\img\\agdaturu.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\allık.jpg",
+      "PackagePath": "staticwebassets\\img\\allık.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\appointment-background.jpg",
+      "PackagePath": "staticwebassets\\img\\appointment-background.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ayajoje.jpg",
+      "PackagePath": "staticwebassets\\img\\ayajoje.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ayakanalizi.jpg",
+      "PackagePath": "staticwebassets\\img\\ayakanalizi.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ayaklarıtemizleme.jpg",
+      "PackagePath": "staticwebassets\\img\\ayaklarıtemizleme.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ayakmasaj.jpg",
+      "PackagePath": "staticwebassets\\img\\ayakmasaj.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ayakpeeling.jpg",
+      "PackagePath": "staticwebassets\\img\\ayakpeeling.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ayaktırnaksekiillendirme.jpg",
+      "PackagePath": "staticwebassets\\img\\ayaktırnaksekiillendirme.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ağdacilthazırlığı.jpg",
+      "PackagePath": "staticwebassets\\img\\ağdacilthazırlığı.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\berre.jpg",
+      "PackagePath": "staticwebassets\\img\\berre.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\cil.jpg",
+      "PackagePath": "staticwebassets\\img\\cil.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\cilthazırlı.jpg",
+      "PackagePath": "staticwebassets\\img\\cilthazırlı.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\cilthazırlıgılazer.jpg",
+      "PackagePath": "staticwebassets\\img\\cilthazırlıgılazer.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ciltrahatlatma.jpg",
+      "PackagePath": "staticwebassets\\img\\ciltrahatlatma.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\danısmanlık.jpg",
+      "PackagePath": "staticwebassets\\img\\danısmanlık.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\deniz.jpg",
+      "PackagePath": "staticwebassets\\img\\deniz.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\dudak.jpg",
+      "PackagePath": "staticwebassets\\img\\dudak.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\dudakkalıcı.jpg",
+      "PackagePath": "staticwebassets\\img\\dudakkalıcı.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\duzenbakımonerileri.jpg",
+      "PackagePath": "staticwebassets\\img\\duzenbakımonerileri.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\elanalizi.jpg",
+      "PackagePath": "staticwebassets\\img\\elanalizi.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\elif.jpg",
+      "PackagePath": "staticwebassets\\img\\elif.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\ellereserum.jpg",
+      "PackagePath": "staticwebassets\\img\\ellereserum.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\elleritemizleme.jpg",
+      "PackagePath": "staticwebassets\\img\\elleritemizleme.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\elllll.jpg",
+      "PackagePath": "staticwebassets\\img\\elllll.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\elmasajı.jpg",
+      "PackagePath": "staticwebassets\\img\\elmasajı.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\emine.png",
+      "PackagePath": "staticwebassets\\img\\emine.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\eyeliner.jpg",
+      "PackagePath": "staticwebassets\\img\\eyeliner.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\fondöten.jpg",
+      "PackagePath": "staticwebassets\\img\\fondöten.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-1.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-10.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-11.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-11.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-12.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-12.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-13.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-13.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-14.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-14.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-2.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-3.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-4.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-5.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-6.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-7.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-8.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-9.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\göz.jpg",
+      "PackagePath": "staticwebassets\\img\\göz.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\hakkımızda.jpg",
+      "PackagePath": "staticwebassets\\img\\hakkımızda.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\haniye1.jpg",
+      "PackagePath": "staticwebassets\\img\\haniye1.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\kalıcıfondoten.jpg",
+      "PackagePath": "staticwebassets\\img\\kalıcıfondoten.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\kerayin.jpg",
+      "PackagePath": "staticwebassets\\img\\kerayin.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\kirpik.jpg",
+      "PackagePath": "staticwebassets\\img\\kirpik.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\kontür.jpg",
+      "PackagePath": "staticwebassets\\img\\kontür.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\korumaonlemleri.jpg",
+      "PackagePath": "staticwebassets\\img\\korumaonlemleri.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\koyupembe.jpg",
+      "PackagePath": "staticwebassets\\img\\koyupembe.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\kütıkül.jpg",
+      "PackagePath": "staticwebassets\\img\\kütıkül.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\lazersonrasıbakım.jpg",
+      "PackagePath": "staticwebassets\\img\\lazersonrasıbakım.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\lazertipininbelirlenmesi.jpg",
+      "PackagePath": "staticwebassets\\img\\lazertipininbelirlenmesi.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\lazeruygulamsı.jpg",
+      "PackagePath": "staticwebassets\\img\\lazeruygulamsı.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\lekekapama.jpg",
+      "PackagePath": "staticwebassets\\img\\lekekapama.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\makyaj.jpg",
+      "PackagePath": "staticwebassets\\img\\makyaj.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\mineral.jpg",
+      "PackagePath": "staticwebassets\\img\\mineral.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\nasırbakımı.jpg",
+      "PackagePath": "staticwebassets\\img\\nasırbakımı.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\nemlendirmeayak.jpg",
+      "PackagePath": "staticwebassets\\img\\nemlendirmeayak.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\nemlendirmevebesleme.jpg",
+      "PackagePath": "staticwebassets\\img\\nemlendirmevebesleme.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\oje.jpg",
+      "PackagePath": "staticwebassets\\img\\oje.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\peeling.jpg",
+      "PackagePath": "staticwebassets\\img\\peeling.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\pinkybeauty.jpg",
+      "PackagePath": "staticwebassets\\img\\pinkybeauty.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\pinkybeauty_cropped.jpeg",
+      "PackagePath": "staticwebassets\\img\\pinkybeauty_cropped.jpeg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\primer.jpg",
+      "PackagePath": "staticwebassets\\img\\primer.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\pudra.jpg",
+      "PackagePath": "staticwebassets\\img\\pudra.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\pudralamakas.jpg",
+      "PackagePath": "staticwebassets\\img\\pudralamakas.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\sacanalizi.jpg",
+      "PackagePath": "staticwebassets\\img\\sacanalizi.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\sacderisimasajı.jpg",
+      "PackagePath": "staticwebassets\\img\\sacderisimasajı.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\sacderisitemizleme.jpg",
+      "PackagePath": "staticwebassets\\img\\sacderisitemizleme.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\sackesimi.jpg",
+      "PackagePath": "staticwebassets\\img\\sackesimi.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\sacmaskesi.jpg",
+      "PackagePath": "staticwebassets\\img\\sacmaskesi.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\seher1.jpg",
+      "PackagePath": "staticwebassets\\img\\seher1.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\services-1.jpg",
+      "PackagePath": "staticwebassets\\img\\services-1.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\services-2.jpg",
+      "PackagePath": "staticwebassets\\img\\services-2.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\services-3.jpg",
+      "PackagePath": "staticwebassets\\img\\services-3.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\services-4.jpg",
+      "PackagePath": "staticwebassets\\img\\services-4.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\services-5.jpg",
+      "PackagePath": "staticwebassets\\img\\services-5.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\services-6.jpg",
+      "PackagePath": "staticwebassets\\img\\services-6.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\sogukagda.jpg",
+      "PackagePath": "staticwebassets\\img\\sogukagda.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\sonbakım.jpg",
+      "PackagePath": "staticwebassets\\img\\sonbakım.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\sıcakagda.jpg",
+      "PackagePath": "staticwebassets\\img\\sıcakagda.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\takip.jpg",
+      "PackagePath": "staticwebassets\\img\\takip.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\tas.jpg",
+      "PackagePath": "staticwebassets\\img\\tas.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\team-1.png",
+      "PackagePath": "staticwebassets\\img\\team-1.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\team-2.png",
+      "PackagePath": "staticwebassets\\img\\team-2.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\team-3.png",
+      "PackagePath": "staticwebassets\\img\\team-3.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\team-4.png",
+      "PackagePath": "staticwebassets\\img\\team-4.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\tırnaksekillendirme.jpg",
+      "PackagePath": "staticwebassets\\img\\tırnaksekillendirme.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\yatıstırıcı.jpg",
+      "PackagePath": "staticwebassets\\img\\yatıstırıcı.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\img\\yenipembe.jpg",
+      "PackagePath": "staticwebassets\\img\\yenipembe.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Documents\\beautysaloonnew\\beautynew\\beautynew\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.beautynew.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.beautynew.props",
+      "PackagePath": "build\\beautynew.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.beautynew.props",
+      "PackagePath": "buildMultiTargeting\\beautynew.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.beautynew.props",
+      "PackagePath": "buildTransitive\\beautynew.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,43 @@
+﻿<div class="container-fluid contact py-5" style="background: var(--bs-primary);">
+    <div class="container pt-5">
+        <div class="row g-4 align-items-center">
+            <div class="col-lg-6">
+                <div class="text-center">
+                    <h1 class="display-3 text-white mb-4">Randevu Al</h1>
+                    <p class="text-white fs-4">Yandaki formu doldurarak kolayca randevu alabilirsiniz. İşletme sahibine gönderilen bilgiler doğrultusunda size en kısa sürede geri dönüş yapılacaktır.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="contact-form rounded p-5 bg-light">
+                    <form action="your-server-script.php" method="POST">
+                        <h1 class="display-6 mb-4">Randevu Bilgileri</h1>
+                        <div class="row gx-4 gy-3">
+                            <div class="col-xl-6">
+                                <input type="text" name="first_name" class="form-control bg-white border-0 py-3 px-4" placeholder="İsim" required>
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="text" name="last_name" class="form-control bg-white border-0 py-3 px-4" placeholder="Soyisim" required>
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="tel" name="phone" class="form-control bg-white border-0 py-3 px-4" placeholder="Cep Telefonu" required>
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="email" name="email" class="form-control bg-white border-0 py-3 px-4" placeholder="E-posta" required>
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="date" name="appointment_date" class="form-control bg-white border-0 py-3 px-4" required>
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="time" name="appointment_time" class="form-control bg-white border-0 py-3 px-4" required>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn btn-primary btn-primary-outline-0 w-100 py-3 px-5" type="submit">Randevu Al</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

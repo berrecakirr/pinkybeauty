@@ -1,0 +1,67 @@
+﻿ <!-- Spinner Start -->
+<div id="spinner" class="show w-100 vh-100 bg-white position-fixed translate-middle top-50 start-50  d-flex align-items-center justify-content-center">
+    <div class="spinner-grow text-primary" role="status"></div>
+</div>
+<!-- Spinner End -->
+<!-- Navbar start -->
+<div class="container-fluid sticky-top px-0">
+    <div class="container-fluid topbar d-none d-lg-block">
+        <div class="container px-0">
+            <div class="row align-items-center">
+                <div class="col-lg-8">
+                    <div class="d-flex flex-wrap">
+                        <a asp-controller="_Contact" asp-action="Index" class="me-4 text-light"><i class="fas fa-map-marker-alt text-primary me-2"></i>Konumu Gör</a>
+                        <a href="#" class="me-4 text-light"><i class="fas fa-phone-alt text-primary me-2"></i>0538 218 51 38</a>
+                        <a href="#" class="text-light"><i class="fas fa-envelope text-primary me-2"></i>pinkybeauty@gmail.com</a>
+                    </div>
+
+                </div>
+                <div class="col-lg-4">
+                    <div class="d-flex align-items-center justify-content-end">
+                        <a href ="https://www.instagram.com/berrecakirr/" class="me-3 btn-square border rounded-circle nav-fill"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid bg-light">
+        <div class="container px-0">
+            <nav class="navbar navbar-light navbar-expand-xl">
+                <a href="index.html" class="navbar-brand">
+                 
+
+                    <h1 class="text-primary display-4">Pinky Beauty </h1>
+                </a>
+                <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars text-primary"></span>
+                </button>
+                <div class="collapse navbar-collapse bg-light py-3" id="navbarCollapse">
+                    <div class="navbar-nav mx-auto border-top">
+                        <a asp-controller="Home" asp-action="Index" class="nav-item nav-link">Anasayfa</a>
+                        <div class="nav-item dropdown">
+                            <a asp-controller="_Services" asp-action="Index" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Hizmetlerimiz</a>
+                            <div class="dropdown-menu m-0 bg-secondary rounded-0">
+                                <a asp-controller="_SkinCare" asp-action="Index" class="dropdown-item">Cilt Bakımı</a>
+                                <a asp-controller="_CasualMakeup" asp-action="Index" class="dropdown-item">Normal Makyaj</a>
+                                <a asp-controller="_PorcelainMakeup" asp-action="Index" class="dropdown-item">Kalıcı Makyaj</a>
+                                <a asp-controller="_Waxing" asp-action="Index" class="dropdown-item">Ağda</a>
+                                <a asp-controller="_Laser" asp-action="Index" class="dropdown-item">Lazer Epilasyon</a>
+                                <a asp-controller="_HairCare" asp-action="Index" class="dropdown-item">Saç Bakımı</a>
+                                <a asp-controller="_HandCare" asp-action="Index" class="dropdown-item">El Bakımı</a>
+                                <a asp-controller="_FootCare" asp-action="Index" class="dropdown-item">Ayak Bakımı</a>
+                            </div>
+                        </div>
+                        <a asp-controller="_Team" asp-action="Index" class="nav-item nav-link">Çalışanlarımız</a>
+                        <a asp-controller="_About" asp-action="Index" class="nav-item nav-link">Hakkımızda</a>
+                        <a asp-controller="_Contact" asp-action="Index" class="nav-item nav-link">İletişim</a>
+                    
+                    </div>
+                    <div class="d-flex align-items-center flex-nowrap pt-xl-0">
+                        <a asp-controller="_Makeanappointment" asp-action="Index" class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-4 ms-4">Randevu Al</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Navbar End -->

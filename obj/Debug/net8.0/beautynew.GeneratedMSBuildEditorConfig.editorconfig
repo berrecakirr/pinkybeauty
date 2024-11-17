@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = beautynew
+build_property.RootNamespace = beautynew
+build_property.ProjectDir = \\Mac\Home\Documents\beautysaloonnew\beautynew\beautynew\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = \\Mac\Home\Documents\beautysaloonnew\beautynew\beautynew
+build_property._RazorSourceGeneratorDebug = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Shared/_Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Shared/_Script.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0Fib3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_CasualMakeup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0Nhc3VhbE1ha2V1cFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0NvbnRhY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_FootCare/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0Zvb3RDYXJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_HairCare/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0hhaXJDYXJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_HandCare/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0hhbmRDYXJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_Laser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0xhc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_Makeanappointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX01ha2VhbmFwcG9pbnRtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_PorcelainMakeup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1BvcmNlbGFpbk1ha2V1cFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_Services/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1NlcnZpY2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_SkinCare/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1NraW5DYXJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_Team/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1RlYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/_Waxing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1dheGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/beautysaloonnew/beautynew/beautynew/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-erz7x8h83f
